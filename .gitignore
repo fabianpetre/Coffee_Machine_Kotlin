@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Enum/The rainbow order/out/
+/Topics/Enum/The rainbow order/out/production/classes/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Type conversion/Where is the type overflow possible/out/
+/Topics/Type conversion/Where is the type overflow possible/out/production/classes/
